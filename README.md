@@ -1,8 +1,11 @@
-#Tournament Spider
+# Tournament Spider
 
 Tento projekt vznikol ako súčasť predmetu "Řízení softwarových projektu" odboru "Softwarové inženýrství a technologie" na Českom učení technickom v Prahe. 
 
-###Tím: 
+### Url
+http://85.207.96.80/
+
+### Tím: 
 Dávid Michal Bulko
 
 Zuzana Štetinová
