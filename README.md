@@ -1,6 +1,6 @@
 # Tournament Spider
 
-Tento projekt vznikol ako súčasť predmetu "Řízení softwarových projektu" odboru "Softwarové inženýrství a technologie" na Českom učení technickom v Prahe. 
+Tento projekt vznikol ako súčasť predmetu "Řízení softwarových projektu" a "Návrh softwarových systému" odboru "Softwarové inženýrství a technologie" na Českom učení technickom v Prahe. 
 
 ### Url
 http://85.207.96.80/
